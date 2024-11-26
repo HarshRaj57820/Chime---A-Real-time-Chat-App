@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"chime-flutter-app","appId":"1:63911203389:android:a94f611fc9196d69e19054","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"chime-flutter-app","configurations":{"android":"1:63911203389:android:a94f611fc9196d69e19054","ios":"1:63911203389:ios:e19263f5253d81cfe19054"}}}}}}

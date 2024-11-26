@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>63911203389-p1snc8b7b7ohc43kjt1ibtnjumu92p68.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.63911203389-p1snc8b7b7ohc43kjt1ibtnjumu92p68</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>63911203389-4vuc2jh317h506qt4u0t2i9vq9pkvedi.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyABpfLELmd2byYwCRMKvQD-qaUTSDwAp-g</string>
+	<key>GCM_SENDER_ID</key>
+	<string>63911203389</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.chime</string>
+	<key>PROJECT_ID</key>
+	<string>chime-flutter-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>chime-flutter-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:63911203389:ios:e19263f5253d81cfe19054</string>
+</dict>
+</plist>

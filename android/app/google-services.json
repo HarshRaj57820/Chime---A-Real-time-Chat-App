@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "63911203389",
+    "project_id": "chime-flutter-app",
+    "storage_bucket": "chime-flutter-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63911203389:android:a94f611fc9196d69e19054",
+        "android_client_info": {
+          "package_name": "com.example.chime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63911203389-4vuc2jh317h506qt4u0t2i9vq9pkvedi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chime",
+            "certificate_hash": "4ab59cfe0ace3438a6a869309363cd784e423b64"
+          }
+        },
+        {
+          "client_id": "63911203389-uubi6q9hrtmph73i4gc7dsmairqvaj4c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_vvstLV7u0_JB1VvD6e686FLyjJI9pXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63911203389-uubi6q9hrtmph73i4gc7dsmairqvaj4c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "63911203389-p1snc8b7b7ohc43kjt1ibtnjumu92p68.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chime"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
